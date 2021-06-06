@@ -6,5 +6,5 @@ If you want to use it:
 - Run gui.py
 
 Credits: 
-https://pypi.org/project/youtube_dl/
-https://pypi.org/project/pafy/
+- https://pypi.org/project/youtube_dl/
+- https://pypi.org/project/pafy/
